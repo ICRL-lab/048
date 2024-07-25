@@ -2,7 +2,7 @@
 
 ## Name Entity Recognition using BERT for the Organization Name and Occupation
 
-### Dataset
+## Dataset
 
 This dataset consists of the labels for the Names, Organization, and Occupation, which can be used for name entity recognition. The dataset is generated using Chat GPT and then annotated manually. It is a CSV file that has labels for the entities mentioned above. The details for the dataset are given below:
 
@@ -13,7 +13,7 @@ This dataset consists of the labels for the Names, Organization, and Occupation,
 - **Number of Classes:** 3
 - **Classes Name:** B-org, B-occu, B-per
 
-### Preprocessing
+## Preprocessing
 
 The preprocessing steps of the proposed project are the following:
 
@@ -21,13 +21,13 @@ The preprocessing steps of the proposed project are the following:
 - Giving number to sentences as sentence-id in the CSV file
 - Train and Test Split
 
-### Model
+## Model
 
 For the Name Entity Recognition using BERT, the following model was used:
 
 - BERT (Bidirectional Encoder Representations from Transformers)
 
-### Results
+## Results
 
 The results of the trained model are the following:
 
@@ -35,7 +35,7 @@ The results of the trained model are the following:
 |-----------------|-----------|--------|----------|
 | 0.40            | 86%       | 79%    | 82%      |
 
-### Demo
+## Demo
 
 ```
 [
