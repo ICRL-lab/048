@@ -43,3 +43,10 @@ The results of the trained model are the following:
    {'as': 'O'}, {'Data': 'B-OCCU'}, {'analyst': 'I-OCCU'}]
 ]
 ```
+<br>
+
+# Author
+**Bisma Saleem** <br>
+**Research Officer** <br>
+***Intelligent Criminology Research Lab (ICRL)*** <br>
+*AL-Khawarizmi Institute of Computer Science (KICS)* UET Lahore <br>
